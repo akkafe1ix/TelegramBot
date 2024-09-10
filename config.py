@@ -1,1 +1,1 @@
-BOT_TOKEN="7547075353:AAGe9m039aizv94-guO3Puw2BvJ-aAsWqgk"
+BOT_TOKEN="7547075353:AAGe9m039aizv94-guO3Puw2BvJ-aAsWqgk" # Токен к боту)))
