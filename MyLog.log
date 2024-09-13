@@ -1,0 +1,14 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @AkkafelixTest1_bot id=7547075353 - 'Ботяра'
+INFO:aiogram.event:Update id=489385900 is handled. Duration 313 ms by bot id=7547075353
+INFO:aiogram.event:Update id=489385901 is handled. Duration 110 ms by bot id=7547075353
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @AkkafelixTest1_bot id=7547075353 - 'Ботяра'
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @AkkafelixTest1_bot id=7547075353 - 'Ботяра'
+INFO:aiogram.event:Update id=489385902 is handled. Duration 563 ms by bot id=7547075353
+INFO:aiogram.event:Update id=489385903 is handled. Duration 125 ms by bot id=7547075353
+INFO:aiogram.event:Update id=489385904 is handled. Duration 157 ms by bot id=7547075353
+INFO:aiogram.event:Update id=489385905 is handled. Duration 156 ms by bot id=7547075353
+INFO:aiogram.event:Update id=489385906 is handled. Duration 266 ms by bot id=7547075353
+INFO:aiogram.event:Update id=489385907 is handled. Duration 125 ms by bot id=7547075353

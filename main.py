@@ -16,5 +16,5 @@ async def main():
     await dp.start_polling(bot, allowed_updates=dp.resolve_used_update_types())  # Запускаем процесс поллинга для приема обновлений от Telegram
 
 if __name__ == "__main__":
-    logging.basicConfig(level=logging.INFO)  # Настраиваем логирование на уровне INFO
+    logging.basicConfig(filename='MyLog.log',level=logging.INFO)  # Настраиваем логирование на уровне INFO в файл MyLog.log
     asyncio.run(main())  # Запускаем основную асинхронную функцию через asyncio
